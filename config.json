@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersecrypt",
+        "uuid": 1668423,
+        "checksum": "2ini36"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
